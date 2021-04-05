@@ -1,6 +1,4 @@
-🦆 **917-Todasca-Daniel**
-
-Computer Science student at UBB Cluj, having fun while taking on the hustle.
+🦆 Computer Science student at UBB Cluj, having fun while taking on the hustle.
 
 Take a look at my passion projects and everything else I've been working on - it's just around the corner!
 
