@@ -13,7 +13,7 @@ Take a look at my passion projects and everything else I've been working on - it
 * [LinkedIn](https://www.linkedin.com/in/daniel-toda%C8%99c%C4%83-6661621ba/)
 
 ### Tools
-<img align="left" alt="Java" width="26px" src="https://github.com/917-Todasca-Daniel/917-Todasca-Daniel/blob/main/images/javapng.png"/>
 <img align="left" alt="C++" width="20px" src="https://github.com/917-Todasca-Daniel/917-Todasca-Daniel/blob/main/images/c%2B%2B.png"/>
 <img align="left" alt="Python" width="20px" src="https://github.com/917-Todasca-Daniel/917-Todasca-Daniel/blob/main/images/kotlin.png"/>
 <img align="left" alt="Kotlin" width="20px" src="https://github.com/917-Todasca-Daniel/917-Todasca-Daniel/blob/main/images/python.png"/>
+<img align="left" alt="Java" width="26px" src="https://github.com/917-Todasca-Daniel/917-Todasca-Daniel/blob/main/images/javapng.png"/>
