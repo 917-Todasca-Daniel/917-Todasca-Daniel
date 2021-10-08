@@ -1,7 +1,7 @@
 🦆 Computer Science student at UBB Cluj, having fun while taking on the hustle.
 
 ### Interested in:
-* Web back-end
+* Web Apps
 * Competitive Programming
 * Game Development
 * New programming languages
