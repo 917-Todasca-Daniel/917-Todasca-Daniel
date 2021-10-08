@@ -7,7 +7,7 @@
 * New programming languages
 
 ### See me on:
-* [LinkedIn](https://www.linkedin.com/in/daniel-toda%C8%99c%C4%83-6661621ba/)
+* [LinkedIn](https://www.linkedin.com/in/daniel-t-6661621ba//)
 
 ### Tools:
 <img align="left" alt="C++" width="32px" src="https://github.com/917-Todasca-Daniel/917-Todasca-Daniel/blob/main/images/c%2B%2B.png"/>
