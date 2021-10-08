@@ -14,3 +14,4 @@
 <img align="left" alt="Kotlin" width="32px" src="https://github.com/917-Todasca-Daniel/917-Todasca-Daniel/blob/main/images/python.png"/>
 <img align="left" alt="Python" width="32px" src="https://github.com/917-Todasca-Daniel/917-Todasca-Daniel/blob/main/images/kotlin.png"/>
 <img align="left" alt="Java" width="32px" src="https://github.com/917-Todasca-Daniel/917-Todasca-Daniel/blob/main/images/javapng.png"/>
+<img align="left" alt="React" width="32px" src="https://github.com/917-Todasca-Daniel/917-Todasca-Daniel/blob/main/images/react.png"/>
