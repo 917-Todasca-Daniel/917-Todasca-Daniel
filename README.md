@@ -1,4 +1,4 @@
-🦆 Computer Science student at UBB Cluj, having fun while taking on the hustle.
+🦆 Computer Science developer from planet Earth.
 
 ### Interested in:
 * Web Apps
